@@ -10,6 +10,8 @@
 
 <br>
 
+<h3 align="center">Como iniciar o projeto</h3>
+
 <p align="center">Índice<br>
 <a href="#-sobre-o-projeto-">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
