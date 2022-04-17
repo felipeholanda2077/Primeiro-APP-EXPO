@@ -9,7 +9,7 @@
 <h4 align="center">Meu primeiro APP Android/IOS realizado em Expo </h4>
 
 <br>
-------------------
+<h3 align="center">------------------</h3>
 <h3 align="center">Como iniciar o projeto</h3>
 <h4 align="center">Digitar no terminal: npm start </h4>
 ------------------
