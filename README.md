@@ -13,6 +13,8 @@
 <h3 align="center">Como iniciar o projeto</h3>
 <h4 align="center">Digitar no terminal: npm start </h4>
 
+<br>
+
 <p align="center">Índice<br>
 <a href="#-sobre-o-projeto-">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
