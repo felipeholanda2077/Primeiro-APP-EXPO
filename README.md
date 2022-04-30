@@ -4,6 +4,13 @@
    </a>
 </p>
 
+<p align="center">Índice<br>
+<a href="#-sobre-o-projeto-">Sobre</a> •
+<a href="#Imagem">Imagem</a> •
+<a href="#Tecnologias-">Tecnologias</a> •
+<a href="#Ferramentas">Ferramentas</a></p>
+
+
 <h1 align="center"> Sobre o Projeto 👨🏻‍💻</h1>
 <h3 align="center">Primeiro-APP-EXPO</h3>
 <h4 align="center">Meu primeiro APP Android/IOS realizado em Expo </h4>
@@ -15,14 +22,6 @@
 <h4 align="center">OU</h4>
 <h4 align="center">Digitar no terminal: expo start </h4>
 <h3 align="center">---------------------------------------------</h3>
-
-<br>
-
-<p align="center">Índice<br>
-<a href="#-sobre-o-projeto-">Sobre</a> •
-<a href="#Imagem">Imagem</a> •
-<a href="#Tecnologias-">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a></p>
 
 <br><br>
 
