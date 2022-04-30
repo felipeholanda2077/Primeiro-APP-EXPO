@@ -12,6 +12,7 @@
 <h3 align="center">---------------------------------------------</h3>
 <h3 align="center">Como iniciar o projeto</h3>
 <h4 align="center">Digitar no terminal: npm start </h4>
+<h4 align="center">OU Digitar no terminal: expo start </h4>
 <h3 align="center">---------------------------------------------</h3>
 
 <br>
